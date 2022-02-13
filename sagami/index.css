@@ -1,0 +1,232 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+body{
+  text-align: center;
+  padding-bottom: 50px;
+  font-family: serif;
+  color: #8fbc8f;
+}
+
+
+.menu {
+    position:fixed;
+    height: 60px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 100%;
+    padding: 0;
+    background-color: #ffffff;
+    border-bottom: solid #c0c0c0;
+
+
+}
+ h2 {
+    display: none;
+}
+
+.menu{
+  text-align: center;
+}
+
+
+.menu ul {
+          text-align: center;
+          height: auto;
+          margin: 0;
+          padding: 0;
+          line-height: 100%;
+          display: inline-block;
+          list-style-type: none;
+  }
+  .menu ul li {
+               margin: 10px;
+               padding: 10px;
+               float: left;　
+               width: 200px;
+               text-align: center;
+
+
+  }
+  .menu ul li a {
+              margin: auto;
+              padding: 8px 20px;
+              position: relative;
+              color: #8fbc8f;
+              text-decoration: none;
+              text-align: center;
+              font-size: 25px;
+  }
+
+  .menu ul li a:link {
+      color:#8fbc8f;
+      text-decoration:none;
+  }
+
+  .menu ul li a:visited {
+      color:#8fbc8f;
+      text-decoration:none;
+  }
+
+  .menu ul li a:hover {
+      color:#333;
+      text-decoration: none;
+  }
+
+  .menu ul li img{
+     margin-top: -27px;
+     margin-bottom: 0px;
+     padding: -10px;
+
+  }
+
+    .shasinn {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode:tb-rl;
+    writing-mode:vertical-rl;
+    font-family: serif;
+    font-size: 70px;
+    color: #000000;
+}
+
+
+
+
+
+
+  .gaiyou{
+    padding-top:  50px;
+    padding-bottom:  50px;
+    background-color: #eeeeee;
+    font-size: 20px;
+
+}
+
+  .peiji{
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode:tb-rl;
+    writing-mode:vertical-rl;
+    font-size: 40px;
+}
+
+  .peiji2{
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode:tb-rl;
+    writing-mode:vertical-rl;
+    font-size: 40px;
+    margin: auto;
+
+}
+.tatemoji{
+  font-size: 30px;
+  text-align: left;
+  margin-top: 260px;
+
+}
+
+.koe{
+background-color: rgb(255,255,239);
+box-shadow: 0px,10px,10px;
+position: relative;
+
+}
+
+.koe h5{
+  font-size: 24px;
+
+  color: #000000;
+
+}
+
+.koe h3{
+  font-size: 24px;
+
+  color: #000000;
+}
+
+.koe p {
+  font-size: 24px;
+
+  color: #000000;
+}
+
+.setsumei{
+  font-size: 22px;
+  margin: 100px;
+  padding: 100px;
+
+}
+
+.setsumei h5{
+  font-size: 35px;
+}
+
+.hokusei{
+   background-color: rgba(17, 17, 136, 0.2);
+   margin-top: 50px;
+   margin-bottom: 50px;
+   box-shadow: 10px 10px #220088;
+   color: #000000;
+}
+
+.nannsei{
+   background-color: rgba(255, 165, 0, 0.2);
+   margin-top: 50px;
+   margin-bottom: 50px;
+   box-shadow: 10px 10px #fd7e00;
+   color: #000000;
+}
+
+.chuou{
+   background-color: rgba(255, 255, 0, 0.2);
+   margin-top: 50px;
+   margin-bottom: 50px;
+   box-shadow: 10px 10px #ffff00;
+   color: #000000;
+}
+
+.hokutou{
+   background-color: rgba(59, 175, 117, 0.2);
+   margin-top: 50px;
+   margin-bottom: 50px;
+   box-shadow: 10px 10px #005731;
+   color: #000000;
+}
+
+.nanntou{
+   background-color: rgba(153, 0, 0, 0.2);
+   margin-top: 50px;
+   margin-bottom: 50px;
+   box-shadow: 10px 10px #f22f21;
+   color: #000000;
+}
+
+.photo img{
+   margin-top: 100px;
+   margin-bottom: 100px;
+   box-shadow: 20px 20px #000000;
+
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.koutuu{
+  margin:100px;
+  font-size: 24px;
+
+}
+
+.koutuu h4{
+  margin-top: 30px;
+  font-size: 40px;
+}
